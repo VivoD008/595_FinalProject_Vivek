@@ -37,7 +37,7 @@ Exposure to hazardous materials as well as the threat of rising sea levels puts 
     - Conducted point to polygon spatial join.
 
 ## Land Use Cover in Cape May County
-
+Logo: Land Use.png
 
 
 
