@@ -45,7 +45,16 @@ Exposure to hazardous materials as well as the threat of rising sea levels puts 
 
 **Relevant US ACS Variable**
 
+![Housing Units](https://github.com/VivoD008/595_FinalProject_Vivek/blob/main/Housing%20Units.png)
+
+![Median Household Income](https://github.com/VivoD008/595_FinalProject_Vivek/blob/main/Median%20HH%20Income.png)
+
 **Spatial Join / Geoprocessing tool**
+
+![Primary Schools in Cape May](https://github.com/VivoD008/595_FinalProject_Vivek/blob/main/Schools.png)
+
+## Sea Level Rise 1 and ft Scenarios
+![SLR](https://github.com/VivoD008/595_FinalProject_Vivek/blob/main/SLR.png)
 
 ## Interactive Map
 
