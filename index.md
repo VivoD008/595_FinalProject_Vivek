@@ -56,6 +56,6 @@ Exposure to hazardous materials as well as the threat of rising sea levels puts 
 
 ## Interactive Map
 
-<iframe src="Final_Final_Maps.html" height="900" width="900"></iframe>
+<iframe src="Final_Final_Maps.html" height="500" width="800"></iframe>
 
 You can explore this map [as its own web page here](Final_Final_Maps.html).
