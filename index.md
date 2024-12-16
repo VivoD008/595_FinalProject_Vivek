@@ -13,7 +13,7 @@ In Cape May, sea level rose 11 inches from 1970 to present. Under the Intermedia
 In addition, residents of Cape May are also exposed to other environmental burdens such as exposure to contaminated sites.
 Exposure to hazardous materials as well as the threat of rising sea levels puts residents at severe risk.
 
-**Research Questions:** To understand the level of exposure of known Contaminated Sites and to visualize the extent of sea level rise over essential infrastructure like Public Schools and Food Pantries in Cape May County, New Jersey.
+**Research Objective:** To understand the level of exposure of known Contaminated Sites and to visualize the extent of sea level rise over essential infrastructure like Public Schools and Food Pantries in Cape May County, New Jersey.
 
 ## Datasets used and Process
 1. **Land Use and Land Cover Data** (Source: NJGIN Open Data)
