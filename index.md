@@ -16,6 +16,16 @@ Exposure to hazardous materials as well as the threat of rising sea levels puts 
 **Research Questions:** To understand the level of exposure of known Contaminated Sites and to visualize the extent of sea level rise over essential infrastructure like Public Schools and Food Pantries in Cape May County, New Jersey.
 
 ## Datasets used in the study
+1. Land Use and Land Cover Data (Source: NJGIN Open Data)
+2. Socio-demographic data: Social Security Income in the past 12 months, Total Housing Units, Median Household Income in the past 12 months (Source: ACS 2019)
+3. Sea Level Rise 1ft and 4ft projection data (Source: NOAA Sea Level Rise Viewer
+4. List of Food Pantries in Cape May County
+5. Known Contaminated Sites (Source: NJGIN Open Data)
+6. LIHTC Building locations (Source: HUD, Policymap)
+7. Public School locations (Source: National Center for Education Statistics, Policymap)
+
+
+
 
 ## Land Use Cover in Cape May County
 
