@@ -5,11 +5,21 @@
 **School:** Edward. J. Bloustein School of Planning and Public Policy, Rutgers University - New Brunswick.
 
 
+## Cape May County, New Jersey
 
+## Research Questions
 
-# Music Venues
+## Datasets used in the study
 
-Here's my sample map website!
+## Land Use Cover in Cape May County
+
+## Two Static Maps
+
+**Relevant US ACS Variable**
+
+**Spatial Join / Geoprocessing tool**
+
+## Interactive Map
 
 <iframe src="musicvenues.html" height="500" width="900"></iframe>
 
