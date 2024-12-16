@@ -16,30 +16,30 @@ Exposure to hazardous materials as well as the threat of rising sea levels puts 
 **Research Questions:** To understand the level of exposure of known Contaminated Sites and to visualize the extent of sea level rise over essential infrastructure like Public Schools and Food Pantries in Cape May County, New Jersey.
 
 ## Datasets used and Process
-1. Land Use and Land Cover Data (Source: NJGIN Open Data)
+1. **Land Use and Land Cover Data** (Source: NJGIN Open Data)
    - Clipped NJ's LULC master dataset to Cape May County
-3. Socio-demographic data: Social Security Income in the past 12 months, Total Housing Units, Median Household Income in the past 12 months (Source: ACS 2019)
-4. Sea Level Rise 1ft and 4ft projection data (Source: NOAA Sea Level Rise Viewer
+3. **Socio-demographic data:** Social Security Income in the past 12 months, Total Housing Units, Median Household Income in the past 12 months (Source: ACS 2019)
+4. **Sea Level Rise 1ft and 4ft projection data** (Source: NOAA Sea Level Rise Viewer)
     - Created a 1-mile buffer around Cape May County boundary
     - Clipped SLR scenarios using buffer boundary
     - Combined multiple polygon attributes to 1 polygon using union.
-6. List of Food Pantries in Cape May County
+6. **List of Food Pantries in Cape May County**
     - Created a CSV of food pantries and geocoded locations
-8. Known Contaminated Sites (Source: NJGIN Open Data)
+8. **Known Contaminated Sites** (Source: NJGIN Open Data)
    - Used the 1-mile buffer of Cape May County boundary and clipped data to include sites within and outside (in close proximity) of Cape May
-10. LIHTC Building locations (Source: HUD, Policymap)
+10. **LIHTC Building locations** (Source: HUD, Policymap)
     - Downloaded point data only within Cape May
     - Geocoded LIHTC locations
     - Conducted polygon to point spatial join
-12. Public School locations (Source: National Center for Education Statistics, Policymap)
+12. **Public School locations** (Source: National Center for Education Statistics, Policymap)
     - Downloaded point data only within Cape May
     - Geocoded primary school locations
     - Conducted point to polygon spatial join.
 
-
-
-
 ## Land Use Cover in Cape May County
+
+
+
 
 ## Two Static Maps
 
