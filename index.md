@@ -39,25 +39,23 @@ Exposure to hazardous materials as well as the threat of rising sea levels puts 
 ## Land Use Cover in Cape May County
 ![LULC](LULC.png)
 
-
-
 ## Two Static Maps
 
 **Relevant US ACS Variable**
 
-![Housing Units](https://github.com/VivoD008/595_FinalProject_Vivek/blob/main/Housing%20Units.png)
+![Housing Units](Housing Units.png)
 
-![Median Household Income](https://github.com/VivoD008/595_FinalProject_Vivek/blob/main/Median%20HH%20Income.png)
+![Median Household Income](Median HH Income.png)
 
 **Spatial Join / Geoprocessing tool**
 
-![Primary Schools in Cape May](https://github.com/VivoD008/595_FinalProject_Vivek/blob/main/Schools.png)
+![Primary Schools in Cape May](Schools.png)
 
 ## Sea Level Rise 1 and ft Scenarios
-![SLR](https://github.com/VivoD008/595_FinalProject_Vivek/blob/main/SLR.png)
+![SLR](SLR.png)
 
 ## Interactive Map
 
-<iframe src="Final_Final_Maps.html" height="500" width="900"></iframe>
+<iframe src="Final_Final_Maps.html" height="900" width="900"></iframe>
 
 You can explore this map [as its own web page here](Final_Final_Maps.html).
