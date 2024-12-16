@@ -7,7 +7,7 @@
 
 ## Cape May County, New Jersey
 Cape May County is the southernmost county in the U.S. state of New Jersey. Much of the county is located on the Cape May peninsula, bound by the Delaware Bay to its west and the Atlantic Ocean to its south and east.
-Sea level rise poses a threat to people and property in coastal areas around the world and is especially acute in New Jersey.(https://njclimateresourcecenter.rutgers.edu/climate_change_101/sea-level-rise-in-new-jersey-projections-and-impacts/)
+Sea level rise poses a threat to people and property in coastal areas around the world and is especially acute in [New Jersey.](https://njclimateresourcecenter.rutgers.edu/climate_change_101/sea-level-rise-in-new-jersey-projections-and-impacts/)
 
 
 ## Research Questions
