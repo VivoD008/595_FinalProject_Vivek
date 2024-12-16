@@ -18,11 +18,13 @@ Exposure to hazardous materials as well as the threat of rising sea levels puts 
 ## Datasets used and Process
 1. **Land Use and Land Cover Data** (Source: NJGIN Open Data)
    - Clipped NJ's LULC master dataset to Cape May County
+   - **I had to clip the land use file in ArcGIS prior to executing the file on colab as the original file size was too large**
 3. **Socio-demographic data:** Social Security Income in the past 12 months, Total Housing Units, Median Household Income in the past 12 months (Source: ACS 2019)
 4. **Sea Level Rise 1ft and 4ft projection data** (Source: NOAA Sea Level Rise Viewer)
     - Created a 1-mile buffer around Cape May County boundary
     - Clipped SLR scenarios using buffer boundary
     - Combined multiple polygon attributes to 1 polygon using union.
+    - **I had to clip the land use file in ArcGIS prior to executing the file on colab as the original file size was too large**
 6. **List of Food Pantries in Cape May County**
     - Created a CSV of food pantries and geocoded locations
 8. **Known Contaminated Sites** (Source: NJGIN Open Data)
