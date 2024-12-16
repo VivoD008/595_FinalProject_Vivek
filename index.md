@@ -42,6 +42,11 @@ Exposure to hazardous materials as well as the threat of rising sea levels puts 
 ## Two Static Maps
 
 **Relevant US ACS Variable**
+!([Median HH Income.png](https://github.com/VivoD008/595_FinalProject_Vivek/blob/d88e10a5e7eb8e6912a504e795f2a0f668e7363e/Median%20HH%20Income.png))
+
+
+
+
 
 ![Housing Units](Housing Units.png)
 
