@@ -55,7 +55,7 @@ Exposure to hazardous materials as well as the threat of rising sea levels puts 
 ![SLR](SLR.png)
 
 ## Interactive Map
-
+Interactive map showing public schools and public housing pverlayed with contaminated buffers and sea level rise scenarios to illustrate a) exposure to hazardous material and b) threats to life and property due to climate change.
 <iframe src="Final_Final_Maps.html" height="500" width="800"></iframe>
 
 You can explore this map [as its own web page here](Final_Final_Maps.html).
