@@ -49,7 +49,7 @@ Exposure to hazardous materials as well as the threat of rising sea levels puts 
 
 **Spatial Join / Geoprocessing tool**
 
-![Primary Schools in Cape May](Schools.png)
+![Primary Schools in Cape May](PH Schools.png)
 
 ## Sea Level Rise 1 and ft Scenarios
 ![SLR](SLR.png)
